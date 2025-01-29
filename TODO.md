@@ -1,0 +1,5 @@
+- [ ] Complete data privacy 
+- [ ] Create cron jobs for all countries to generate daily newsletter
+- [ ] Create a sample campaign so that I can test the sending of emails
+- [ ] Figure out how to send custom content to api and create campaign 
+- [ ] generate Dynamic links for everything 

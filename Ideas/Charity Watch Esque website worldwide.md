@@ -1,0 +1,3 @@
+- [ ] Central watch for all charities 
+- [ ] Show current, past and future expenditure
+- [ ] Show cases related to that charity

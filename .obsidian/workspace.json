@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "8b0077ab50a96235",
+    "type": "split",
+    "children": [
+      {
+        "id": "295dbde65644dc3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0edb5b14328423d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-30 23.03.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-09-30 23.03.15.excalidraw"
+            }
+          },
+          {
+            "id": "44a55186cbe62fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Local RAG App.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Local RAG App"
+            }
+          },
+          {
+            "id": "82425d41f2429074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Past_Stuff/InfoSec Cat-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "InfoSec Cat-1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34f2cdd3f6db90ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3f414ba63eb381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08ab2125f5c1d969",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6bb1f1927440734c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d9f6573b5b94682",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "bb195ebc723128c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8cda08ac61f254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9743997a060454b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Website rewrite.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Website rewrite"
+            }
+          },
+          {
+            "id": "fb353c3e1576e1ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Website rewrite.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Website rewrite"
+            }
+          },
+          {
+            "id": "7c92d09bc700005d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f51ba15f6ae13f9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Website rewrite.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Website rewrite"
+            }
+          },
+          {
+            "id": "d37fa1b34999a210",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "82425d41f2429074",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-29 17.18.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 23.03.15.excalidraw.md",
+    "Untitled.canvas",
+    "TODO.md",
+    "Todoist Sync.md",
+    "Data Priv Cat-1.md",
+    "Past_Stuff/InfoSec Cat-1.md",
+    "Past_Stuff/Embedded CAT - 1.md",
+    "Pasted Image 20250126223133_923.png",
+    "Pasted Image 20250126214002_920.png",
+    "Pasted Image 20250126213844_832.png",
+    "Ideas/Local RAG App.md",
+    "Ideas/Hackathon Idea.md",
+    "Image text Converter Extension.md",
+    "Translaxify Schema.md",
+    "Ideas/Dynamic Pricing Suggestor.md",
+    "Ideas/Charity Watch Esque website worldwide.md",
+    "Ideas/AI Website Control Extension or Browser.md",
+    "Past_Stuff/Pasted Image 20250101224234_751.png",
+    "Past_Stuff/Pasted Image 20250101223923_856.png",
+    "Ideas/MVP STORIFY.md",
+    "Ideas/Hyper Alchemy Website rewrite.md",
+    "Past_Stuff/Pasted Image 20241216233101_759.png",
+    "Past_Stuff/Pasted Image 20241216233045_754.png",
+    "Past_Stuff/Pasted Image 20241216233013_769.png",
+    "Freelancing/NewsTok Architecture.md",
+    "Freelancing",
+    "Past_Stuff/TASK.md",
+    "Past_Stuff/AI FAT.md",
+    "Past_Stuff/Pasted Image 20241204015553_203.png",
+    "Past_Stuff/Pasted Image 20241204015553_132.png",
+    "Past_Stuff/CN FAT.md",
+    "Past_Stuff/Compiler FAT.md",
+    "Past_Stuff/OS FAT.md",
+    "Past_Stuff/OS.md",
+    "Past_Stuff/DBMS LAB FAT.md",
+    "Ideas",
+    "Past_Stuff/ALL DA PENDING.md",
+    "Past_Stuff/Compiler LAB FAT.md",
+    "Excalidraw",
+    "Past_Stuff/Cateripillar_Hack",
+    "Past_Stuff"
+  ]
+}

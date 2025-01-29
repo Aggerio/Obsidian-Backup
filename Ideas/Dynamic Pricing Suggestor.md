@@ -1,0 +1,1 @@
+Look at your competitors pricing and adjust your product prices accordingly. For amazon sellers, wholesale sellers, local sellers and etc.

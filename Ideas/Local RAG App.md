@@ -1,0 +1,4 @@
+- [ ] Should work locally with local models or use API keys
+- [ ] Cool interface and easy to use 
+- [ ] Segregate topics locally and add a tutor mode 
+- [ ] 

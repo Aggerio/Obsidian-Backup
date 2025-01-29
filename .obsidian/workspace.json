@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Website rewrite.md",
+                "file": "Past_Stuff/InfoSec Cat-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Website rewrite"
+              "title": "Outgoing links from InfoSec Cat-1"
             }
           },
           {
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Website rewrite.md"
+                "file": "Past_Stuff/InfoSec Cat-1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Website rewrite"
+              "title": "Outline of InfoSec Cat-1"
             }
           },
           {
@@ -201,7 +201,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82425d41f2429074",
+  "active": "d37fa1b34999a210",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-01-29 17.18.37.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 23.03.15.excalidraw.md",
